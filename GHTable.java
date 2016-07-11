@@ -1,4 +1,3 @@
-package com.tr.edu.trspace.common;
 
 import java.util.Hashtable;
 import java.util.List;
