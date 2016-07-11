@@ -1,5 +1,3 @@
-package com.tr.edu.trspace.common;
-
 public class GHColumn {
 
 	private String columnName = "";
